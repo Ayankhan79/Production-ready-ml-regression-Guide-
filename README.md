@@ -1,4 +1,4 @@
-# Production-ready-ml-regression
+# Production-ready-ml-regression (Guide)
 These notes are based on the learnings and concepts I studied while completing the Machine Learning A-Z course on Udemy.
 
 This Repo in Machine Learning is (Regression Focused)
